@@ -1,0 +1,17 @@
+{
+  "name": "mini-crm-api",
+  "version": "1.0.0",
+  "description": "Portfolio backend API: Mini-CRM built with Express + TypeScript + Drizzle + PostgreSQL",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3"
+  }
+}
